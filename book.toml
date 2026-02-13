@@ -1,9 +1,11 @@
 [book]
 authors = ["Tanvir Rahman"]
-language = "en"
+language = "bn"
 src = "src"
-title = "Learn Git Bangla"
+title = "গিট ও গিটহাব শিখি বাংলায়"
+description = "একদম শুরু থেকে গিট ও গিটহাব শেখার বাংলা গাইড"
 
 [output.html]
 git-repository-url = "https://github.com/tanvir-cpp/learn-git-bangla"
 site-url = "/learn-git-bangla/"
+edit-url-template = "https://github.com/tanvir-cpp/learn-git-bangla/edit/main/{path}"
