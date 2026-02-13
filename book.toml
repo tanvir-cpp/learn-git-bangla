@@ -1,0 +1,10 @@
+[book]
+authors = ["Tanvir Rahman"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Learn Git Bangla"
+
+[output.html]
+git-repository-url = "https://github.com/tanvir-cpp/learn-git-bangla"
+site-url = "/learn-git-bangla/"
