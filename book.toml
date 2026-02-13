@@ -3,7 +3,7 @@ authors = ["Tanvir Rahman"]
 language = "bn"
 src = "src"
 title = "গিট ও গিটহাব শিখি বাংলায়"
-description = "একদম শুরু থেকে গিট ও গিটহাব শেখার বাংলা গাইড"
+description = "গিট ও গিটহাব শিখি বাংলায় — একদম শুরু থেকে গিট এবং গিটহাব শেখার একটি পূর্ণাঙ্গ ওপেন সোর্স বাংলা গাইড।"
 
 [output.html]
 git-repository-url = "https://github.com/tanvir-cpp/learn-git-bangla"
