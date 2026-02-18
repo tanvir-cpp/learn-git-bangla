@@ -7,5 +7,8 @@ description = "গিট ও গিটহাব শিখি বাংলায�
 
 [output.html]
 git-repository-url = "https://github.com/tanvir-cpp/learn-git-bangla"
-site-url = "/learn-git-bangla/"
+site-url = "https://git.tanvirrahman.me/"
 edit-url-template = "https://github.com/tanvir-cpp/learn-git-bangla/edit/main/{path}"
+
+[output.html.google-analytics]
+id = "G-5PP2B7Y286"
